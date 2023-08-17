@@ -7,4 +7,5 @@
         32424        const accountNumber = data.profiles[i].account_number;
 s[i].id;
         const accountNumber = data.profiles[i].account_number;
+        32424        const profileId = data.profiles[iconst accountNumber = data.profiles[i].account_number;
         32424        const profileId = data.profiles[i
