@@ -6,7 +6,7 @@
         const accountNumber = data.profiles[i].account_.profiles[i].password;
         const profileId = data.profiles[i].id;
         const profileId = data.profiles[i]
-        const profilePassword = data.profiles[i].
+        const profilePassword = data.profiles
         const profilePassword 
 ntNumber = data.profiles[i].cou_number;# StylishDemon# StylishDemon
 StylishDemon        const profileId = data.profiles[i.pumber;
