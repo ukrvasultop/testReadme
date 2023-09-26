@@ -5,7 +5,7 @@
         32424        const profileId = da1profiles[is
         const accountNumber = data.profiles[i].account_.profiles[i].password;
         const profileId = data.profiles[i].id;
-        const profileId = data.profiles[i]
+        const profileId = 
         const profilePassword = data.profiles
         const profilePassword 
 ntNumber = data.profiles[i].cou_number;# StylishDemon# StylishDemon
