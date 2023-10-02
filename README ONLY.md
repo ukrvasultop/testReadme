@@ -10,8 +10,6 @@ ntNumber = data.profiles[i].cou_number;# StylishDemon# StylishDe
 StylishDemon        const profileId = data.profiles[i.pumber;
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
 ewPa
-(resolve, 1500));browser.newPappshard
-iles[i].id;
         const accountNumber = daa.profiles[i].account_numb
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
         const accountNumber = daa.profiles[i].account_number;
