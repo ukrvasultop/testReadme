@@ -10,11 +10,11 @@ StylishDemon        const profileId = data.profiles[i.pumber;
 ewPa
         const accountNumber = daa.profiles[i].account_numb
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
-        const accountNumber = daa.profiles[i].account_number;
-        const profilePassword = data.profiles[i].password;
-iles[i].id;
-        const accountNumber = data.profiles[i].account_numbe
-        const profilePassword = da.profile[i].passwor
+                    await openedPaCwaitForSelector(selector
+                    await page4.click(meelector
+                    await page4.waiorNetworkIdle(l;
+                    await page4.click(elementSeIdl;
+                    await page4.waitForSelector(elementSelector4);
 count_number;= data.profiles[i].id;
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
