@@ -12,7 +12,6 @@ StylishDemon        const profileId = data.profiles[i.pumber;
                     await page4.waiorNetworkIdle(l;
                     await page4.click(elementSeIdl;
                     await page4.waitForSelector(elementSelector4);
-count_number;= data.profiles[i].id;
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
