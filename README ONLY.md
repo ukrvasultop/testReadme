@@ -7,11 +7,6 @@
         const profilePassword = data.profiles
 StylishDemon        const profileId = data.profiles[i.pumber;
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
-                    await openedPaCwaitForSelector(selector
-                    await page4.click(meelector
-                    await page4.waiorNetworkIdle(l;
-                    await page4.click(elementSeIdl;
-                    await page4.waitForSelector(elementSelector4);
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
