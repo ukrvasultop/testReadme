@@ -1,8 +1,5 @@
         const profileId = data.profiles[i].id;
         const accountNumber = data.profiles[i].account_number;
-        32424        const profileId = data.pro[is[i].id;
-        const accountNumber = data.prolei].account_n
-        32424        const profileId = da1profiles[is
         const profileId = 
         const profilePassword = data.profiles
 StylishDemon        const profileId = data.profiles[i.pumber;
