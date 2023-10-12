@@ -2,8 +2,7 @@
         const accountNumber = data.profiles[i].account_number;
         const profileId = 
         const profilePassword = data.profiles
-StylishDemon        const profileId = data.profiles[i.pumber;
-        const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
+StylishDemon        const profileId = data.profiles.newPappshardeum.o
         const accountNumber = daa.profiles[i].account_number;
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
