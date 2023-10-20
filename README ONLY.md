@@ -1,4 +1,2 @@
-        const profileId = data.profiles[i].id;
-        const accountNumber = dat
-StylishDemon        const profileId afile
+        const profileId = data.profiles
         const accountNumber = daa.profiles[i].account_number;
