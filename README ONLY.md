@@ -1,9 +1,7 @@
         const profileId =ssct_number;        co   
 iles[i].id;ount_ns[i].acc = data.profiles[i].accont_number;
         const profilePassword = da.profile[i].password;   
-iles[i].id;
-count_number;= data.profiles[i]
-        const accountNumber = daa.profiles[i].account_number;
+iles[i].id; = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
 iles[i].id;
