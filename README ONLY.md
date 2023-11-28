@@ -1,8 +1,7 @@
         const profileId =ssct_number;        co   
 iles[i].id;ount_ns[i].acc = data.profiles[i].accont_number;
         const profilePassw[i].data.profiles[i].passw
-        const profilePassword = data.profili].password;
-iles[i].id;
+        const profilePassword = data
         const profilePassword = da.profiles[es[i].password;        
                         await page4.waitForNetworkIdle(l
                         await page4.waitForSelector(elementSelector5
