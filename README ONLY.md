@@ -1,8 +1,5 @@
         const profileId =ssct_number;        co  
 [[[[[[[[[[[[[
-        const profileId =ssct_number;        co  
-[[[[[[[[[[[[[number
-console.l await puppet=s[i tForlementSelector5);e
         const accountNumber = data.profiles[i].account_
         const profileId =ssct_number;        co  
 [[[[[[[[[[[[[
